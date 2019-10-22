@@ -1,1 +1,2 @@
-echp "hello world";
+<?php
+echo "hello world";
